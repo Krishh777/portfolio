@@ -11,7 +11,7 @@ function Main() {
       <div className="about-section">
         <div className="image-wrapper">
           <img
-            src={process.env.PUBLIC_URL + "/ace2.jpg"}
+            src={process.env.PUBLIC_URL + "/profile.jpg"}
             alt="Krish Bagga"
             style={{
               width: "150px",
